@@ -27,5 +27,23 @@ A curated list of articles, repositories and learning resources for CS, econ and
 | [awesome-python](https://github.com/vinta/awesome-python) | A list of resources for Python. |
 | [awesome-react](https://github.com/enaqx/awesome-react) | A list of resources for React.js. |
 | [awesome-shell](https://github.com/alebcay/awesome-shell) | A list of resources for Shell. |
-| [awesome-spark](https://github.com/awesome-spark/awesome-spark) | A list of resources for Apache Spark |
+| [awesome-spark](https://github.com/awesome-spark/awesome-spark) | A list of resources for Apache Spark. |
 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | A list of resources for VS Code. |
+
+
+## learn
+| Link | Description |
+| -----|----- |
+| [Coursera](https://www.coursera.org/) | University courses plus student benefits. |
+| [edX](https://edx.org/) | University courses. |
+| [Google Cloud Training](https://cloud.google.com/training) | Assorted Google courses. |
+| [JetBrains Academy](https://hyperskill.org/) | Comprehensive Java guide. |
+| [Kaggle](https://www.kaggle.com/) | Data science learning and competitive platform. |
+| [Learn X in Y Minutes](https://learnxinyminutes.com/) | Language syntax cheatsheets. |
+| [LeetCode](https://leetcode.com/) | Essential DSA practise platform. |
+| [LinkedIn Learning](https://linkedin.com/learning) | General courses for job skills. |
+| [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) | Microsoft tools and courses. |
+| [MIT OCW](https://ocw.mit.edu/index.htm) | MIT STEM courses. |
+| [MongoDB University](https://university.mongodb.com/) | MongoDB courses and guides. |
+| [Tableau eLearning](https://elearning.tableau.com/) | Tableau courses and guides. |
+
