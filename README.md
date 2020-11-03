@@ -1,5 +1,5 @@
 # my-bookmarks
-A curated list of articles, repositories and learning resources for CS, Economics and more.
+A curated list of articles, repositories, and learning resources for CS, Economics, and more.
 
 
 ## github-repos
@@ -47,3 +47,13 @@ A curated list of articles, repositories and learning resources for CS, Economic
 | [MongoDB University](https://university.mongodb.com/) | MongoDB courses and guides. |
 | [Tableau eLearning](https://elearning.tableau.com/) | Tableau courses and guides. |
 
+
+## developers
+| Link | Description |
+| -----|----- |
+| [Bit](https://bit.dev/) | A community for sharing reusable components for front end. |
+| [BitBucket](https://bitbucket.org/) | A git repository hosting service. |
+| [GitLab](https://gitlab.com/) | A git repository hosting service. |
+| [Google Developers](https://developers.google.com/) | Google developer tools and community. |
+| [IBM Developer](https://developer.ibm.com/) | IBM developer tools and community. |
+| [Microsoft Developer](https://developer.microsoft.com/en-us/) | Microsoft developer tools and community. |
