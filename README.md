@@ -16,18 +16,27 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 ## awesome-repos
 | Link | Description |
 | -----|----- |
-| [awesome-courses](https://github.com/prakhar1989/awesome-courses) | A list of university courses on CS topics. |
+| [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) | A list of resources for Analytics. |
+| [awesome-android](https://github.com/JStumpp/awesome-android) | A list of resources for Android. |
+| [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) | A list of resources for Big Data. |
+| [awesome-courses](https://github.com/prakhar1989/awesome-courses) | A list of resources for CS Courses. |
 | [awesome-css](https://github.com/awesome-css-group/awesome-css) | A list of resources for CSS. |
+| [awesome-datascience](https://github.com/academic/awesome-datascience) | A list of resources for Data Science. |
+| [awesome-github](https://github.com/phillipadsmith/awesome-github) | A list of resources for GitHub. |
 | [awesome-go](https://github.com/avelino/awesome-go) | A list of resources for Go. |
 | [awesome-html5](https://github.com/diegocard/awesome-html5) | A list of resources for HTML5. |
 | [awesome-java](https://github.com/akullpp/awesome-java) | A list of resources for Java. |
 | [awesome-javascript](https://github.com/sorrycc/awesome-javascript) | A list of resources for JavaScript. |
+| [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A list of resources for Machine Learning. |
+| [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) | A list of resources for MongoDB. |
 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | A list of resources for Node.js. |
 | [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) | A list of resources for Powershell. |
 | [awesome-python](https://github.com/vinta/awesome-python) | A list of resources for Python. |
 | [awesome-react](https://github.com/enaqx/awesome-react) | A list of resources for React.js. |
 | [awesome-shell](https://github.com/alebcay/awesome-shell) | A list of resources for Shell. |
+| [awesome-slack](https://github.com/matiassingers/awesome-slack) | A list of resources for Slack. |
 | [awesome-spark](https://github.com/awesome-spark/awesome-spark) | A list of resources for Apache Spark. |
+| [awesome-ssh](https://github.com/moul/awesome-ssh) | A list of resources for SSH. |
 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | A list of resources for VS Code. |
 
 
@@ -51,8 +60,9 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 ## developers
 | Link | Description |
 | -----|----- |
-| [Bit](https://bit.dev/) | A community for sharing reusable components for front end. |
+| [Bit](https://bit.dev/) | A community for sharing reusable components. |
 | [BitBucket](https://bitbucket.org/) | A git repository hosting service. |
+| [GitHub](https://github.com) | A git repository hosting service. |
 | [GitLab](https://gitlab.com/) | A git repository hosting service. |
 | [Google Developers](https://developers.google.com/) | Google developer tools and community. |
 | [IBM Developer](https://developer.ibm.com/) | IBM developer tools and community. |
