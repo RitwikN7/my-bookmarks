@@ -40,6 +40,13 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | A list of resources for VS Code. |
 
 
+## artefact-repos
+| Link | Description |
+| ---- | ---- |
+| [Chocolatey Packages](https://chocolatey.org/packages) | List of choco packages. |
+| [npm](https://www.npmjs.com/) | List of JavaScript packages. |
+| [PyPI](https://pypi.org/) | List of Python packages. |
+
 ## learn
 | Link | Description |
 | -----|----- |
