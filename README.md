@@ -75,4 +75,4 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 | [IBM Developer](https://developer.ibm.com/) | IBM developer tools and community. |
 | [Microsoft Developer](https://developer.microsoft.com/en-us/) | Microsoft developer tools and community. |
 | [Qualcomm Developer](https://developer.qualcomm.com/) | Qualcomm developer tools and community. |
-| [Red Hat Developer](https://developers.redhat.com/) | Red Hat developer tools and community. |
+| [Red Hat Developers](https://developers.redhat.com/) | Red Hat developer tools and community. |
