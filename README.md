@@ -4,7 +4,7 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 
 ## github-repos
 | Link | Description |
-| -----|----- |
+| ---- | ---- |
 | [awesome](https://github.com/sindresorhus/awesome) | A comprehensive list of awesome-repos. More below. |
 | [free-for-devs](https://github.com/ripienaar/free-for-dev/blob/master/README.md) | A list of free subscriptions and tools for developers. |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) | A list of free programming and CS books. |
@@ -49,9 +49,10 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 
 ## learn
 | Link | Description |
-| -----|----- |
+| ---- | ---- |
 | [Coursera](https://www.coursera.org/) | University courses plus student benefits. |
 | [edX](https://edx.org/) | University courses. |
+| [freeCodeCamp](https://www.freecodecamp.org/) | Free web development guide and projects. |
 | [Google Cloud Training](https://cloud.google.com/training) | Assorted Google courses. |
 | [JetBrains Academy](https://hyperskill.org/) | Comprehensive Java guide. |
 | [Kaggle](https://www.kaggle.com/) | Data science learning and competitive platform. |
@@ -66,7 +67,7 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 
 ## developers
 | Link | Description |
-| -----|----- |
+| ---- | ---- |
 | [Bit](https://bit.dev/) | A community for sharing reusable components. |
 | [BitBucket](https://bitbucket.org/) | A git repository hosting service. |
 | [GitHub](https://github.com) | A git repository hosting service. |
