@@ -55,6 +55,7 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 | [Coursera](https://www.coursera.org/)                      | University courses plus student benefits.       |
 | [edX](https://edx.org/)                                    | University courses.                             |
 | [freeCodeCamp](https://www.freecodecamp.org/)              | Free web development guide and projects.        |
+| [GitHub Learning Lab](https://lab.github.com/)             | GitHub tutorials and courses.                   |
 | [Google Cloud Training](https://cloud.google.com/training) | Assorted Google courses.                        |
 | [JetBrains Academy](https://hyperskill.org/)               | Comprehensive Java guide.                       |
 | [Kaggle](https://www.kaggle.com/)                          | Data science learning and competitive platform. |
