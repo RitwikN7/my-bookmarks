@@ -35,6 +35,7 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 | [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)             | A list of resources for Powershell.       |
 | [awesome-python](https://github.com/vinta/awesome-python)                            | A list of resources for Python.           |
 | [awesome-react](https://github.com/enaqx/awesome-react)                              | A list of resources for React.js.         |
+| [awesome-react-native](https://github.com/jondot/awesome-react-native)               | A list of resources for React Native.     |
 | [awesome-shell](https://github.com/alebcay/awesome-shell)                            | A list of resources for Shell.            |
 | [awesome-slack](https://github.com/matiassingers/awesome-slack)                      | A list of resources for Slack.            |
 | [awesome-spark](https://github.com/awesome-spark/awesome-spark)                      | A list of resources for Apache Spark.     |
