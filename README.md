@@ -23,6 +23,7 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 | [awesome-courses](https://github.com/prakhar1989/awesome-courses)                    | A list of resources for CS Courses.       |
 | [awesome-css](https://github.com/awesome-css-group/awesome-css)                      | A list of resources for CSS.              |
 | [awesome-datascience](https://github.com/academic/awesome-datascience)               | A list of resources for Data Science.     |
+| [awesome-flutter](https://github.com/Solido/awesome-flutter)                         | A list of resources for Flutter.          |
 | [awesome-github](https://github.com/phillipadsmith/awesome-github)                   | A list of resources for GitHub.           |
 | [awesome-go](https://github.com/avelino/awesome-go)                                  | A list of resources for Go.               |
 | [awesome-html5](https://github.com/diegocard/awesome-html5)                          | A list of resources for HTML5.            |
