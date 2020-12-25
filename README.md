@@ -58,7 +58,7 @@ A curated list of articles, repositories, and learning resources for CS, Economi
 | [edX](https://edx.org/)                                    | University courses.                             |
 | [freeCodeCamp](https://www.freecodecamp.org/)              | Free web development guide and projects.        |
 | [GitHub Learning Lab](https://lab.github.com/)             | GitHub tutorials and courses.                   |
-| [Google Cloud Training](https://cloud.google.com/training) | Assorted Google courses.                        |
+| [Google Qwiklabs](https://google.qwiklabs.com/)            | Assorted Google Cloud Platform courses.         |
 | [Kaggle](https://www.kaggle.com/)                          | Data science learning and competitive platform. |
 | [Learn X in Y Minutes](https://learnxinyminutes.com/)      | Language syntax cheatsheets.                    |
 | [LeetCode](https://leetcode.com/)                          | Essential DSA practise platform.                |
