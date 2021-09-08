@@ -12,7 +12,7 @@ A curated list of articles, repositories, and learning resources for CS and more
 | [gitignore](https://github.com/github/gitignore)                                                                          | A list of .gitignore files.                            |
 | [project-guidelines](https://github.com/elsewhencode/project-guidelines)                                                  | A list of collaborative tips and guidelines.           |
 | [public-apis](https://github.com/public-apis/public-apis)                                                                 | A list of free and public APIs.                        |
-
+| [internships](https://github.com/pittcsc/Summer2022-Internships) | A list of internships for Summer '22 |
 ## awesome-repos
 
 | Link                                                                                 | Description                               |
