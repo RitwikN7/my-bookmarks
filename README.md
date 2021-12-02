@@ -34,6 +34,7 @@ A curated list of articles, repositories, and learning resources for CS and more
 | [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)                     | A list of resources for Node.js.          |
 | [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell)             | A list of resources for Powershell.       |
 | [awesome-python](https://github.com/vinta/awesome-python)                            | A list of resources for Python.           |
+| [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)                      | A list of resources for Quant Finance.    |
 | [awesome-react](https://github.com/enaqx/awesome-react)                              | A list of resources for React.js.         |
 | [awesome-react-native](https://github.com/jondot/awesome-react-native)               | A list of resources for React Native.     |
 | [awesome-shell](https://github.com/alebcay/awesome-shell)                            | A list of resources for Shell.            |
